@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhuvan Patil</h1>
 <h3 align="center">I’m a Computer Engineering student passionate about software development and problem-solving, with hands-on experience in C++, Java, Python, MySQL, and Web development. I enjoy building practical applications and am currently focused on DSA, full-stack development, and AI.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan1326&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan1326" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuvan1326" alt="bhuvan1326" /></a> </p>
 
