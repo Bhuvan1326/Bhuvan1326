@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhuvan Patil</h1>
 <h3 align="center">I’m a Computer Engineering student passionate about software development and problem-solving, with hands-on experience in C++, Java, Python, MySQL, and Web development. I enjoy building practical applications and am currently focused on DSA, full-stack development, and AI.</h3>
 
-- 🔭 I’m currently working on [Urban-Air-Quality](https://github.com/Bhuvan1326/Urban-Air-Quality)
+- 🔭 I’m currently working on [Smart-City-Air-Quality-Intelligence](https://github.com/Bhuvan1326/Smart-City-Air-Quality-Intelligence)
 
 - 🌱 I’m currently learning **Data Structures & Algorithms(DSA)**
 
