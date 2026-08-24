@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms(DSA)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bhuvan1326?tab=repositories](https://github.com/Bhuvan1326?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/Bhuvan1326?tab=repositories)
 
 - 📫 How to reach me **bhuvanpatil1313@gmail.com**
 
